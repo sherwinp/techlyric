@@ -1,0 +1,5 @@
+C:\projects\mobile\src\timesync\bin\Debug\timesync.exe
+C:\projects\mobile\src\timesync\bin\Debug\timesync.pdb
+C:\projects\mobile\src\timesync\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\mobile\src\timesync\obj\Debug\timesync.exe
+C:\projects\mobile\src\timesync\obj\Debug\timesync.pdb
