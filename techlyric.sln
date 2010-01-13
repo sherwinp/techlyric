@@ -1,12 +1,12 @@
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "techlyric", "wwwroot\techlyric.csproj", "{1483BECF-4A9B-4624-A4E6-9BA37D579FEF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechlyricBus", "src\TechlyricBus\TechlyricBus.csproj", "{F957044F-64B2-4A24-A291-DDF860510116}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.MSAccess", "src\Data.MSAccess\Data.MSAccess.csproj", "{4C9946AD-8A46-4D3B-9B51-A92F5626506D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.SQLite", "src\Data.SQLite\Data.SQLite.csproj", "{D1E87954-327E-4D59-882E-80A08F455E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechlyricWeb", "src\TechlyricWeb\TechlyricWeb.csproj", "{13382C2E-0DDE-4AF1-9EF3-3BAF8C751FDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,10 +14,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1483BECF-4A9B-4624-A4E6-9BA37D579FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1483BECF-4A9B-4624-A4E6-9BA37D579FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1483BECF-4A9B-4624-A4E6-9BA37D579FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1483BECF-4A9B-4624-A4E6-9BA37D579FEF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F957044F-64B2-4A24-A291-DDF860510116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F957044F-64B2-4A24-A291-DDF860510116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F957044F-64B2-4A24-A291-DDF860510116}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -30,6 +26,10 @@ Global
 		{D1E87954-327E-4D59-882E-80A08F455E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1E87954-327E-4D59-882E-80A08F455E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1E87954-327E-4D59-882E-80A08F455E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13382C2E-0DDE-4AF1-9EF3-3BAF8C751FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13382C2E-0DDE-4AF1-9EF3-3BAF8C751FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13382C2E-0DDE-4AF1-9EF3-3BAF8C751FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13382C2E-0DDE-4AF1-9EF3-3BAF8C751FDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+C:\projects\techlyric\src\TechlyricWeb\bin\TechlyricWeb.dll
+C:\projects\techlyric\src\TechlyricWeb\bin\TechlyricWeb.pdb
+C:\projects\techlyric\src\TechlyricWeb\bin\SQLiteProviders.dll
+C:\projects\techlyric\src\TechlyricWeb\bin\TechlyricBus.dll
+C:\projects\techlyric\src\TechlyricWeb\bin\TechlyricBus.pdb
+C:\projects\techlyric\src\TechlyricWeb\bin\SQLiteProviders.pdb
+C:\projects\techlyric\src\TechlyricWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\techlyric\src\TechlyricWeb\obj\Debug\TechlyricWeb.dll
+C:\projects\techlyric\src\TechlyricWeb\obj\Debug\TechlyricWeb.pdb

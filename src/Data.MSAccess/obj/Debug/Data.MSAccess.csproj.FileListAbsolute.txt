@@ -1,0 +1,6 @@
+C:\projects\techlyric\src\Data.MSAccess\bin\Debug\ASPNetDB.mdb
+C:\projects\techlyric\src\Data.MSAccess\bin\Debug\Data.MSAccess.dll
+C:\projects\techlyric\src\Data.MSAccess\bin\Debug\Data.MSAccess.pdb
+C:\projects\techlyric\src\Data.MSAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\techlyric\src\Data.MSAccess\obj\Debug\Data.MSAccess.dll
+C:\projects\techlyric\src\Data.MSAccess\obj\Debug\Data.MSAccess.pdb

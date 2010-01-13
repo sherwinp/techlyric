@@ -8,7 +8,7 @@ using System.Web.Routing;
 
 namespace TechlyricBus
 {
-    public class GlobalApplication : System.Web.HttpApplication
+    public partial class GlobalApplication : System.Web.HttpApplication
     {
         public static void RegisterRoutes(RouteCollection routes)
         {
@@ -22,7 +22,8 @@ namespace TechlyricBus
 
         protected void Application_Start(object sender, EventArgs e)
         {
-            //AppDomain.CurrentDomain.SetData("SQLServerCompactEditionUnderWebHosting", true);
+            ///* Allow the use of SQL CE Database under Web Host *///
+            AppDomain.CurrentDomain.SetData("SQLServerCompactEditionUnderWebHosting", true);
 
             RegisterRoutes(RouteTable.Routes);
         }

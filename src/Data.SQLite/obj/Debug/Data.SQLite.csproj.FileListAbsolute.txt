@@ -1,0 +1,6 @@
+C:\projects\techlyric\src\Data.SQLite\bin\Debug\SQLiteProviders.dll
+C:\projects\techlyric\src\Data.SQLite\bin\Debug\SQLiteProviders.pdb
+C:\projects\techlyric\src\Data.SQLite\bin\Debug\System.Data.SQLite.DLL
+C:\projects\techlyric\src\Data.SQLite\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\techlyric\src\Data.SQLite\obj\Debug\SQLiteProviders.dll
+C:\projects\techlyric\src\Data.SQLite\obj\Debug\SQLiteProviders.pdb

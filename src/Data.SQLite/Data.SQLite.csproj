@@ -43,8 +43,8 @@
     <Reference Include="System.Web" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Data.SQLite, Version=1.0.65.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\lib\x64\System.Data.SQLite.DLL</HintPath>
+          <SpecificVersion>False</SpecificVersion>
+          <HintPath>..\..\lib\System.Data.SQLite.DLL</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

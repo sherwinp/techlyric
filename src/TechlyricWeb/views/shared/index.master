@@ -11,16 +11,16 @@
     <div id="header" role="banner">
       <img src="images/bck.png" />
       <div id="topnav" role="contentinfo">
-        <span><a href="#">Login</a> | <a href="#">Contact</a> | <a href="#">Imprint</a></span>
+        <span><a href="/LogOn">Login</a> | <a href="#">Contact Us</a></span>
       </div>
     </div>
     <!-- begin: main navigation #nav -->
     <div id="nav" role="navigation">
       <div class="hlist">
         <ul>
-          <li><a href="#">Table Of Contents</a></li>
-          <li><a href="#">Next Example</a></li>
-          <li><a href="#">Previous Example</a></li>
+          <li><a href="#">&nbsp;</a></li>
+          <li><a href="/LogOn">&nbsp;</a></li>
+          <li><a href="#">Contact Us</a></li>
         </ul>
       </div>
     </div>
@@ -31,9 +31,8 @@
       <!-- begin: #col1 - first float column -->
       <div id="col1" role="complementary">
         <div id="col1_content" class="clearfix">
-          <h2>#col1</h2>
-          <p>First Float Column</p>
-        <a href="#">Add Text</a> | <a href="#">Remove Text</a></div>
+        &nbsp;
+        </div>
       </div>
       <!-- end: #col1 -->
 
@@ -49,8 +48,7 @@
       <div id="col3" role="complementary">
         <div id="col3_content" class="clearfix">
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="/LogOn">Sign In</a></li>
+                <li><a href="/">Home</a></li>
                 <li><a href="#">Blog</a></li>
                 <li><a href="#">Services</a>   <ul>
                         <li><a href="http://mail.live.com">HotMail</a></li>
